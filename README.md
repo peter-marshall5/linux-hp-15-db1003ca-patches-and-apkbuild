@@ -18,7 +18,7 @@ Ethernet | Realtek Integrated 10/100/1000 GbE LAN
 Expansion Slots | 1 multi-format SD media card reader
 External Ports | 1 HDMI; 1 headphone/microphone combo; 1 RJ-45; 2 USB 3.1 Gen 1 (Data transfer only); 1 AC smart pin; 1 USB 2.0 Type-A (Data Transfer Only)
 Minimum dimensions (W x D x H) | 37.6 x 24.6 x 2.25 cm
-Weight | 1/9 Kg
+Weight | 1.9 kg
 Power Supply | 45 W AC power adapter
 Battery | 3-cell, 41 Wh Li-ion
 Webcam | HP TrueVision HD Camera with integrated digital microphone
@@ -70,5 +70,6 @@ BMQ scheduler | ✔️
 Clang Thin LTO | ✔️
 
 (1) Likely unsupported by the battery controller
+
 (2) Possibly unsupported by the wifi card
 
